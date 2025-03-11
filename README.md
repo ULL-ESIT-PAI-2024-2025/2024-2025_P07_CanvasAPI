@@ -12,13 +12,9 @@ This text is Markdown text. To learn about Markdown, Study these references:
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 The project directory organization is as follows:
-
-```
 .
 └── src
     ├── evaluation-session
+    ├── exercism
     └── home-work
-```
 
-Include in the evaluation-session folder all the code developed in the evaluation session
-Include under the home-work folder all the exercises requested in the lab proposal
