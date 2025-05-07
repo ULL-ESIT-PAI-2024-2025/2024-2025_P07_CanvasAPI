@@ -56,9 +56,12 @@ de modo que ejecutando `npm install` queden instaladas todas las dependencias de
 En el desarrollo de esta práctica, utilice el depurador integrado en el navegador para confirmar que el flujo
 de ejecución de su programa es el correcto.
 
-### La página web de la aplicación
+### Interfaz gráfica de la aplicación 
 En esta práctica se propone diseñar diferentes clases que permitan la visualización de figuras
 geométricas en una página web estática.
+
+La interfaz gráfica de la aplicación se desarrollará a través de diferentes páginas HTML.
+Haga que en el elemento `title` del código HTML de todas las páginas web de su poroyecto figure su nombre y apellidos.
 
 La visualización de la ejecución del programa se realizará a través de una página web alojada
 en la máquina IaaS-ULL de la asignatura (no utilice la extensión *Live View* de VSC) y cuya URL tendrá la forma:
