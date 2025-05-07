@@ -61,7 +61,7 @@ En esta práctica se propone diseñar diferentes clases que permitan la visualiz
 geométricas en una página web estática.
 
 La interfaz gráfica de la aplicación se desarrollará a través de diferentes páginas HTML.
-Haga que en el elemento `title` del código HTML de todas las páginas web de su poroyecto figure su nombre y apellidos.
+Haga que en el elemento `title` del código HTML de todas las páginas web de su proyecto figure su nombre y apellidos.
 
 La visualización de la ejecución del programa se realizará a través de una página web alojada
 en la máquina IaaS-ULL de la asignatura (no utilice la extensión *Live View* de VSC) y cuya URL tendrá la forma:
